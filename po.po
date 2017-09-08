@@ -1,0 +1,4 @@
+msgid "中国"
+msgstr ""
+msgid "可以打开了"
+msgstr ""
